@@ -42,5 +42,5 @@ Use this template only for systems you own or are explicitly authorized to asses
 
 **Template available — intended for future authorized assessments.**
 
-This repository is a reporting resource, not a completed penetration test or a claim of discovered vulnerabilities.
+This repository is a reporting resource, not a completed penetration test or a claim of discovered vulnerabilities..
 
